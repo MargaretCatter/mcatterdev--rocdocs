@@ -2,21 +2,82 @@
 
 - label: 'Introduction'
   link: '/'
-- label: 'Getting started'
-  link: '/getting-started'
-- label: Usage
+- label: 'About'
+  link: '/about'
+- label: 'Collaborators & Contributors'
+  link: '/cnc'
+
+- label: 'Tabletop Games'
   items:
-    - label: 'Creating docs'
-      link: '/usage/creating-docs'
-    - label: 'Navigation'
-      link: '/usage/navigation'
-    - label: 'Shadowing'
-      link: '/usage/shadowing'
-    - label: 'Using YAML files'
-      link: '/usage/using-yaml-files'
-- label: More
+    - label: 'Series'
+      items:
+        - label: 'High Metropolys'
+          items:
+          - label: 'High Metropolys'
+            link: '/TabletopGames/Series/HighMetropolys/01-HighMetropolys'
+          - label: 'The Ascent of Crystal Towers'
+            link: '/TabletopGames/Series/HighMetropolys/02-AscentOfCrytalTower'
+          - label: 'The Red Lich Queen of Hedgeline'
+            link: '/TabletopGames/Series/HighMetropolys/03-QueenofHedgeline'
+          - label: 'Those Broken & Beloved Things'
+            link: '/TabletopGames/Series/HighMetropolys/04-BrokenBeloved'
+          - label: 'The Empire of Unsheathed Knives'
+            link: '/TabletopGames/Series/HighMetropolys/05-UnsheathedKnives'
+          - label: 'Burn Out The Sun'
+            link: '/TabletopGames/Series/HighMetropolys/06-BurnOutTheSun'
+        - label: 'Neo Cities Chronicles: A Shared Universe'
+          items:
+          - label: 'Neo Cities Chronicles TTRPG'
+            link: '/TabletopGames/Series/NeoCitiesChronicles/00-NeoCitiesChronicles'
+          - label: 'Magical Girls & Mecha'
+            link: '/TabletopGames/Series/NeoCitiesChronicles/01-MagicalGirlsMecha'
+          - label: 'Magical Girls Mecha Rising'
+            link: '/TabletopGames/Series/NeoCitiesChronicles/02-MagicalGirlsMechaRising'
+          - label: 'Neo Cities Chronicles: The TTRPG System'
+            link: '/TabletopGames/Series/NeoCitiesChronicles/03-ncc-ttrpg'
+          
+    - label: 'MicroTTRPG'
+      items:
+        - label: 'All Of the Stars in the Sky'
+          link: '/TabletopGames/MicroTTRPG/AllTheStarsInTheSky'
+        - label: 'i wish i was as strong as i make myself out to be'
+          link: '/TabletopGames/MicroTTRPG/i-wish-i-was-as-strong'
+        - label: 'Its Dangerous To Go Alone — Take This'
+          link: '/TabletopGames/MicroTTRPG/ItsDangerousToGoAlone'
+        - label: 'if we dont talk again remember that i love you'
+          link: '/TabletopGames/MicroTTRPG/if-we-dont-talk'
+        - label: 'Jinkys!'
+          link: '/TabletopGames/MicroTTRPG/Jinkys'
+
+- label: 'Visual Novels'
   items:
-    - label: FAQ
-      link: /faq
+    - label: 'All The Faces of Dante Hall'
+      link: '/VisualNovels/All The Faces of Dante Hall'
+    - label: 'Hurricane Like Me'
+      link: '/VisualNovels/Hurricane-Like-Me'
+    - label: 'Magical Space Adventures'
+      link: '/VisualNovels/msa-vn'
+
+- label: 'Events'
+  items:
+    - label: 'Game Jams'
+      items:
+        - label: 'Grrls Make Games: A Riot Grrrl Themed Game Jam'
+          link: '/hosted-events/jam-events/GrrlsMakeGames'
+        
+        - label: 'Turn Based Tactics Jam'
+          link: '/hosted-events/jam-events/TurnBasedTactics'
+        
+        - label: 'Release the Magic! A Queer Magical Girl Game Jam'
+          link: '/hosted-events/jam-events/ReleasetheMagic'
+
+- label: 'Other'
+  items:
+    - label: 'FAQ'
+      link: '/faq'
+    - label: 'Contact Me'
+      link: '/contact'
     - label: 'Github'
-      link: https://github.com/jpedroschmitz/rocketdocs
+      link: 'https://github.com/MargaretCatter'
+    - label: 'Info'
+      link: 'https://info.margaretcatter.dev'

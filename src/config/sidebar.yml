@@ -1,7 +1,5 @@
 # Sidebar navigation
 
-- label: 'Introduction'
-  link: '/'
 - label: 'About'
   link: '/about'
 - label: 'Collaborators & Contributors'
@@ -10,32 +8,9 @@
 - label: 'Tabletop Games'
   items:
     - label: 'Series'
+      link: "/series"
       items:
-        - label: 'High Metropolys'
-          items:
-          - label: 'High Metropolys'
-            link: '/TabletopGames/Series/HighMetropolys/01-HighMetropolys'
-          - label: 'The Ascent of Crystal Towers'
-            link: '/TabletopGames/Series/HighMetropolys/02-AscentOfCrytalTower'
-          - label: 'The Red Lich Queen of Hedgeline'
-            link: '/TabletopGames/Series/HighMetropolys/03-QueenofHedgeline'
-          - label: 'Those Broken & Beloved Things'
-            link: '/TabletopGames/Series/HighMetropolys/04-BrokenBeloved'
-          - label: 'The Empire of Unsheathed Knives'
-            link: '/TabletopGames/Series/HighMetropolys/05-UnsheathedKnives'
-          - label: 'Burn Out The Sun'
-            link: '/TabletopGames/Series/HighMetropolys/06-BurnOutTheSun'
-        - label: 'Neo Cities Chronicles: A Shared Universe'
-          items:
-          - label: 'Neo Cities Chronicles TTRPG'
-            link: '/TabletopGames/Series/NeoCitiesChronicles/00-NeoCitiesChronicles'
-          - label: 'Magical Girls & Mecha'
-            link: '/TabletopGames/Series/NeoCitiesChronicles/01-MagicalGirlsMecha'
-          - label: 'Magical Girls Mecha Rising'
-            link: '/TabletopGames/Series/NeoCitiesChronicles/02-MagicalGirlsMechaRising'
-          - label: 'Neo Cities Chronicles: The TTRPG System'
-            link: '/TabletopGames/Series/NeoCitiesChronicles/03-ncc-ttrpg'
-          
+        
     - label: 'MicroTTRPG'
       items:
         - label: 'All Of the Stars in the Sky'
@@ -79,5 +54,5 @@
       link: '/contact'
     - label: 'Github'
       link: 'https://github.com/MargaretCatter'
-    - label: 'Info'
-      link: 'https://info.margaretcatter.dev'
+    # - label: 'Info'
+    #   link: 'https://info.margaretcatter.dev'

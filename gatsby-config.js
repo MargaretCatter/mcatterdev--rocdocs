@@ -19,7 +19,7 @@ module.exports = {
         docsPath: "src/docs",
         yamlFilesPath: "src/yamlFiles",
         repositoryUrl: "https://github.com/jpedroschmitz/rocketdocs",
-        baseDir: "examples/gatsby-theme-docs",
+        baseDir: "src/config/index.mdx",
       },
     },
     {
@@ -28,7 +28,7 @@ module.exports = {
         name: "Margaret Catter Development",
         short_name: "Margaret Catter Dev",
         start_url: "/",
-        background_color: "#ffffff",
+        background_color: "#ffe2ea",
         display: "standalone",
         icon: "static/icon.png",
       },

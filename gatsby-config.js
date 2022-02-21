@@ -19,7 +19,7 @@ module.exports = {
         docsPath: "src/docs",
         yamlFilesPath: "src/yamlFiles",
         repositoryUrl: "https://github.com/jpedroschmitz/rocketdocs",
-        baseDir: "src/config/index.mdx",
+        baseDir: "examples/gatsby-theme-docs",
       },
     },
     {

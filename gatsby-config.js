@@ -13,24 +13,13 @@ module.exports = {
   },
   plugins: [
     {
-      resolve: `gatsby-plugin-emotion`,
-      options: {
-        // Accepts the following options, all of which are defined by `@emotion/babel-plugin` plugin.
-        // The values for each key in this example are the defaults the plugin uses.
-        sourceMap: true,
-        autoLabel: "dev-only",
-        labelFormat: `[local]`,
-        cssPropOptimization: true,
-      },
-    },
-    {
       resolve: "@rocketseat/gatsby-theme-docs",
       options: {
         configPath: "src/config",
         docsPath: "src/docs",
         yamlFilesPath: "src/yamlFiles",
-        repositoryUrl: "https://github.com/jpedroschmitz/rocketdocs",
-        baseDir: "examples/gatsby-theme-docs",
+        repositoryUrl: "https://github.com/MargaretCatter/mcatterdev--rocdocs",
+        // baseDir: "examples/gatsby-theme-docs",
       },
     },
     {
